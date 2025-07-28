@@ -7,16 +7,22 @@ export interface Degree {
 
 const degrees: Degree[] = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Witwatersrand',
+    degree: 'M.S.C. Mathematical Statistics and Artificial Intelligence',
+    link: 'https://wits.ac.za',
+    year: 2024,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'University of Witwatersrand',
+    degree: 'B.S.C Honours Actuarial Science, Computer Engineering',
+    link: 'https://wits.ac.za',
+    year: 2021,
+  },
+  {
+    school: 'University of Witwatersrand',
+    degree: 'B.S.C Actuarial Science, Computer Engineering',
+    link: 'https://wits.ac.za',
+    year: 2020,
   },
 ];
 

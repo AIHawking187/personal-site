@@ -30,7 +30,7 @@ const data: ContactItem[] = [
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/abdullah-hassan-635a831b6/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },

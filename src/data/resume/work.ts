@@ -13,19 +13,19 @@ export interface Position {
 
 const work: Position[] = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
-    startDate: '2024-07-01',
+    name: 'Global Next',
+    position: 'Co-founder & Strategic Director',
+    url: 'https://globalnext.com',
+    startDate: '2024-08-01',
     summary:
-      'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+      'Global Next is a new venture focused on building AI products and services that empower individuals and organizations to harness the power of artificial intelligence. As Co-founder and Strategic Director, I lead the strategic vision, partnerships, and product development efforts.',
     highlights: [
       'Built and scaled engineering team, emphasizing diversity and open-source contribution',
       'Established key partnerships with AI research institutions and tech companies',
     ],
   },
   {
-    name: 'Smile Identity',
+    name: 'Unamani AI',
     position: 'VP Engineering & Head of AI',
     url: 'https://smileidentity.com',
     startDate: '2022-01-01',
